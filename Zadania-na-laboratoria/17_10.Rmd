@@ -1,0 +1,7 @@
+1. Program ma przyjąć na wejściu liczbę całkowitą n>=1, i wypisać wartość n!.
+
+2. Zasymuluj przebieg eksperymentu polegającego na k-krotnym rzucie symetryczną kostką 6-ścienną. Program ma wypisać łączną ilosć wyrzuconych szóstek, oraz numer rzutu w którym pierwszy raz wypadła szóstka.
+
+3. k strzelców oddaje kolejno po n strzałów, każdy trafia swój pierwszy strzał z prawdopodobieństwem p, i przy każdym kolejnym strzale prawdopodobieństwo spada o 5 procent (procent, nie punktów procentowych). Jeśli jednak strzelec trafi, to rośnie mu morale i prawdopobieństwo rośnie o 3 procent (ale maksymalnie do wartości 1). Zasymuluj przebieg zawodów - program ma wypisać kolejno otrzymany wynik dla każdego ze strzelców, i na koniec zwrócić numer strzelca który miał najlepszy wynik.
+
+4. Zmodyfikuj rozwiązanie zadania drugiego tak, aby po dwukrotnym pojawieniu się szóstki dwukrotnie pod rząd program wypisał na ekran komunikat "Deja Vu oznacza błąd w Matrixie" (ale wciąż ma wypisać interesujące nas liczby).
